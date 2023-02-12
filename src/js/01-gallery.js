@@ -22,3 +22,13 @@ let lightbox = new SimpleLightbox('.gallery a', {
 console.log(galleryItems);
 
 //trying to push this shit to GIT;
+/*Алёна Берсенева @berseneva_sugar, [12 лют. 2023 р., 16:07:50]:
+Npm run build
+
+А потом как обычно git add .
+
+git commit -m “название комита”
+
+hit push
+
+На сайте в гитхабе в pages выбери не main ветку, а должна появится вторая) */
